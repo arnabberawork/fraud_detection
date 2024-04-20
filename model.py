@@ -5,3 +5,5 @@ def model2():
     print("Adding all ML model2")
 def model3():
     print("Adding all ML model3")
+
+print("Model2 is the best")
